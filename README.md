@@ -39,4 +39,4 @@ A GPU-enabled environment such as Google Colab is recommended for reproducing th
 
 ## Notes
 
-This is an experimental comparison. The current evaluation implementation has an aggregation issue, so its reported metric values should not be interpreted as reliable benchmark results until corrected and rerun.
+This is an experimental comparison. The current evaluation implementation should not be interpreted as reliable benchmark results.
